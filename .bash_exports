@@ -1,0 +1,6 @@
+export BASH_DOT_FILES_DIR=~/bashdotfiles
+export NODE_HOME=/home/karthick/softwares/node-v12.16.1-linux-x64
+export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+export GROOVY_HOME=/opt/groovy-2.5.9
+export CITRIX_HOME=/opt/Citrix/ICAClient
+export PATH=~/bin:$NODE_HOME/bin:$JAVA_HOME/bin:$GROOVY_HOME/bin:$CITRIX_HOME:$PATH
